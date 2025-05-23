@@ -1,1 +1,1 @@
-# BlackJack
+The project implements a console game called "Weird Blackjack," where the player draws cards trying to reach exactly 21 points. There are two modes: one with regular numbered cards, and another with suit-based cards including face cards (Jack, Queen, King), each having special effects — for example, skipping turns, adding bonus points, or removing cards.
